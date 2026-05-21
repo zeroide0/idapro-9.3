@@ -1,0 +1,31 @@
+c8dc100d903f2de199948d13bc133ba2f18b8c5cab55e80cfe9cbf9e321d3748  ./misc/lumina93_x64linux.run
+171ccf46fd3e8b20baaededbfabf70bf701d72da7419759e5b684575e9aafecb  ./misc/hexvault93_x64linux.run
+fc136a581f30ba08e70b490b6ece6dca13fa5d25a43c56c9ff3242bea2ae1522  ./misc/ida-sdk-9.3 from official github.zip
+cc04e0c1965e02796f03104bd63d813bbd5fc1aa115854c56ff6c1ccb3a8ab48  ./misc/hexlicsrv93_x64linux.run
+8d3cbc32d4114b45de3e401747e348975e21d16f85493c3c26424ef48f479531  ./misc/for Windows 7/IDA Pro 9.2 Beta 2 Qt 6 Fix for Win7 [reversecode].rar
+4bd5191f2db0f6585154be2077e65cde1b430a8c35dcfa48af670c004935e22a  ./misc/for Windows 7/dist-qt-6.8.2-w7compat-release by HexRays.zip
+2f02ff8e45e6c799721eb7f8b97058b108b321ab94b2579629f4f27477464ae0  ./misc/for Windows 7/idapro93 win7 dll [reversecode].7z
+28c4e5ff6f8a966111fa30f3a34ea57a09de9e727686fed3efc74550a8dbc826  ./misc/idapin93.zip
+612f839f699623865f4f83066c78d269e7ece2cecb57a8fe9281d7d68e4a1c08  ./activation/keygens only/keygens by TOM_RUS/ida_keygen_v2_x64mac.zip
+4d11710d417d943396c49142aa2ad9e74f04d8bb7faa0b383086b88baf4deb12  ./activation/keygens only/keygens by TOM_RUS/ida_keygen_v2_armmac.zip
+da648a79ea0ccccb7e96c2938c5fe45abf795519431ce0a8fe0649b022c8bf0b  ./activation/keygens only/keygens by TOM_RUS/ida_keygen_v2_linux.zip
+cee256feb3061dca85a86c14045011002570735713733b063f4ed91f54ee836c  ./activation/keygens only/keygens by TOM_RUS/ida_keygen_v2 win.7z
+409cb4d08dda96c18fe2e7ababef05fb8168e27918a3308d9b662cbc41b63a5d  ./activation/keygens only/keygens by TOM_RUS/Hex-Rays.Keyfilemaker.v2.MacOS.U2B-TOM_RUS.zip
+d5e9ea77dffb0d94b7e6c2c47cb98686acde2cd2b1104ecad4436cf339ed431d  ./activation/keygens only/keygen.js
+5db3aec5e067eafba8dca4086ace0cbd4946995c6dba10fbc6df7254d8c6b4b5  ./activation/for compare/windows original + patched files.7z
+41940a5896b5b1705ce40a65b932c1479beb71650b3d7a6de5a5ca553c2d2e43  ./activation/idapro.hexlic
+512ae026575ca46c6c4e8ff8027895babcf99716637a7e35b113bea9976e3ab9  ./activation/keygens and patchers/keygen-v2_bgspa.py
+d98b83dc230854f306454c4ebc50f8db185818889d6e0c5e6f445e2b2eaed63f  ./activation/keygens and patchers/keygen3.py
+6b00d5dd86b811ff87d6641403d7b5bb8a66caded9253ced44ef9174cbc0e79e  ./activation/keygens and patchers/keygens by vovan2200/for v9.1/keygen_lumina.py
+ccbe289eacbf0b284ee2f0d223005b6a74fdcb4a6ca00288ea41445941f96ab3  ./activation/keygens and patchers/keygens by vovan2200/for v9.1/keygen_vault.py
+6d53805eb58d7176586df9a918cc7ea1119ce0babf35a8b975cdfe246c23cf28  ./activation/keygens and patchers/keygens by vovan2200/for v9.1/patch_cert_hexvault.py
+13e36934569467d71887b833e701ffdb9c7016054a825770d35f68471738c63b  ./activation/keygens and patchers/keygens by vovan2200/for v9.1/patch_cert_lumina.py
+b8d6ed80749514db89817de252dba033a199285ca345e737d8c2d6ce91738b8f  ./activation/keygens and patchers/keygens by vovan2200/for v9.1/root_ca.cer
+7feeb59080ad8fdfdbf82467619dc7923e647d2edc99eb40e6474e6f0ad77aef  ./activation/keygens and patchers/keygens by vovan2200/keygen_lumina.py
+fdff3d5f4f2626cdf676f562569249325884ed915e236d965632b1ab3744adfb  ./activation/keygens and patchers/keygens by vovan2200/keygen_vault.py
+09b59c842fdb17283696fdac3017439d56c2151bd47ea2f9bef3cee43ef94179  ./activation/keygens and patchers/keygens by vovan2200/keygen.py
+7fc0f07c2bfb36d809b4838fade74b50310e9dc6d966ff5ce6ded7da898b1d0b  ./installers/ida-pro_93_armlinux.run
+24fb3525ea3c75088bb496b3aac9d5a22ea5802ac6ab12a4358e5aa47bc40ecb  ./installers/ida-pro_93_x64mac.app.zip
+077b0f67edd0143b2c2c16c5a802f1036208afd8c035ccf71164a6813bb4533a  ./installers/ida-pro_93_x64win.exe
+dbbecf71f93ddc3e6a9b39f9779663e7dc2ee0eb732340a4320ae9bb79163735  ./installers/ida-pro_93_armmac.app.zip
+2ed43ae4bb84d74dcae6f0099210dfa8d61bfea4952f5f9a07a9aae16cb70f82  ./installers/ida-pro_93_x64linux.run
